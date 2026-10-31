@@ -9,7 +9,7 @@ about stricter types in databases (SQL `domain` and PostgreSQL operators)
 
 ## SQL formatting
 
-<detail>
+<details>
   <summary>SQL formatting conventions</summary>
 ### Current or potential comma-separated lists
 
@@ -35,7 +35,7 @@ about stricter types in databases (SQL `domain` and PostgreSQL operators)
    !=  >=  desc  false
   ```
 
-</detail>
+</details>
 
 ## Licenses
 
