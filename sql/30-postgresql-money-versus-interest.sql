@@ -64,6 +64,7 @@ create operator   = (
 select
    cast(  0.05 as numeric(14, 2)) = cast(  0.05 as numeric( 5, 5)) as numeric_eq_numeric
   ,cast(  0.05 as money_portable) = cast(  0.05 as interest_rate ) as money_eq_interest
+  ,cast(  0.05 as interest_rate ) = cast(  0.05 as money_portable) as interest_eq_money
 ;
 
 
