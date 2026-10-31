@@ -1,0 +1,5 @@
+# If you like Python data type hints, you might like SQL domains
+# github.com/sqlxpert/data-types-sql-domain-postgresql-operator
+# GPLv3, Copyright Paul Marcelin
+
+*.sql linguist-language=SQL
