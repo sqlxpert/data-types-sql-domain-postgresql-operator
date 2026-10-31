@@ -9,6 +9,8 @@ about stricter types in databases (SQL `domain` and PostgreSQL operators)
 
 ## SQL formatting
 
+<detail>
+  <summary>SQL formatting conventions</summary>
 ### Current or potential comma-separated lists
 
 - Examples: `select`&nbsp;: `from`&nbsp;, `group by`&nbsp;, `order by`
@@ -32,6 +34,8 @@ about stricter types in databases (SQL `domain` and PostgreSQL operators)
     =  >    asc   true
    !=  >=  desc  false
   ```
+
+</detail>
 
 ## Licenses
 
