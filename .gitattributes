@@ -2,4 +2,5 @@
 # github.com/sqlxpert/data-types-sql-domain-postgresql-operator
 # GPLv3, Copyright Paul Marcelin
 
+*.sql linguist-detectable
 *.sql linguist-language=SQL
