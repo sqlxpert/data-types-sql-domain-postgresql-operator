@@ -2,7 +2,7 @@
 
 Source code to accompany my October&nbsp;30,&nbsp;2026 article
 (
-[LinkedIn](https://www.linkedin.com/pulse/having-nice-day-sql-arbitrary-syntax-extra-work-paul-marcelin-4lqhc) |
+[LinkedIn](https://www.linkedin.com/pulse/you-like-python-data-type-hints-might-sql-domains-paul-marcelin-te49c) |
 [blog](https://sqlxpert.github.io/2026/10/30/data-types-sql-domain-postgresql-operator.html)
 )
 about stricter types in databases (SQL `domain` and PostgreSQL operators)
