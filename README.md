@@ -11,6 +11,7 @@ about stricter types in databases (SQL `domain` and PostgreSQL operators)
 
 <details>
   <summary>SQL formatting conventions</summary>
+
 ### Current or potential comma-separated lists
 
 - Examples: `select`&nbsp;: `from`&nbsp;, `group by`&nbsp;, `order by`

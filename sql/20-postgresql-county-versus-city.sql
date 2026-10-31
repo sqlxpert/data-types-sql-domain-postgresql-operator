@@ -10,7 +10,7 @@
 
 
 -- should be  place_name etc. but screen width is limited!
-create domain place  as varchar 
+create domain place  as varchar
                      -- varchar(maximum length) except in postgresql
   constraint place_not_null       check (value is not null)
 
